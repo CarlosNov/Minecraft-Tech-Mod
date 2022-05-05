@@ -1,0 +1,23 @@
+ {
+     "type": "minecraft:crafting_shaped",
+     "pattern": [
+         "###",
+         "#&#",
+         "###"
+     ],
+     "key":
+     {
+        "#":
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        "&":
+        {
+            "item": "uptech:inventory_bag"
+        }
+     },
+     "result":
+     {
+        "item": "uptech:base_building_block"
+     }
+ }
