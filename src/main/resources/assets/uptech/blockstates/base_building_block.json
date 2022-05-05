@@ -1,0 +1,6 @@
+{
+    "variants": 
+    {
+      "": { "model": "uptech:block/base_building_block" }
+    }
+}
